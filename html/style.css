@@ -1,0 +1,35 @@
+body{
+    background-color: #EEEFEA;
+}
+li>a{
+    color: black;
+}
+a>img{
+    height: 40px;
+    width: 100px;
+    margin-right: 5px;
+}
+div>img{
+    margin-left: 150px;
+    height: 500px;
+    width: 700px;
+}
+.navbar{
+    height: 10vh;
+}
+nav>ul{
+    width: 100vw;
+}
+footer>h2{
+    background-color: #1159A5;
+    margin-top: 50px;
+    text-align: center;
+}
+.jumbotron{
+    margin-top: 50px;
+    width: auto;
+    background-color: #9a9a9a;
+}
+.blockquote>h2{
+    text-align: center;
+}
