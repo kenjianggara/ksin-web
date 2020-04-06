@@ -20,6 +20,10 @@ div>img{
 nav>ul{
     width: 100vw;
 }
+.navbar.scrolled{
+    background: #d5dbe3;
+    transition: background 100ms;
+}
 footer>h2{
     background-color: #1159A5;
     margin-top: 50px;
@@ -33,3 +37,4 @@ footer>h2{
 .blockquote>h2{
     text-align: center;
 }
+
