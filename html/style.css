@@ -24,6 +24,13 @@ nav>ul{
     background: #d5dbe3;
     transition: background 100ms;
 }
+.head>#head-image{
+    margin-left: 10px;
+}
+#head-image{
+    height: 471px;
+    width: 1000px;
+}
 footer>h2{
     background-color: #1159A5;
     margin-top: 50px;
@@ -36,5 +43,8 @@ footer>h2{
 }
 .blockquote>h2{
     text-align: center;
+}
+.comit{
+    font-weight: 1000; font-size: x-large;
 }
 
